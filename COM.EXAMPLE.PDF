@@ -1,0 +1,8 @@
+ByteStreamReadExample.java
+
+package com.example;
+public class ByteStreamReadExample{
+
+public static void main (String[] args) {
+}
+}
